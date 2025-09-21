@@ -56,5 +56,5 @@ We aim to become a **leading tech partner** in HealthTech, FinTech, and AI-power
 ## 🤝 Connect With Us  
 
 - 🌐 Website → [codevia.tech](https://codevia.tech)  
-- 💼 LinkedIn → [Codevia on LinkedIn](https://linkedin.com/company/codevia)  
+- 💼 LinkedIn → [Codevia on LinkedIn](https://www.linkedin.com/company/codeviatech/)  
 - 📧 Email → [info@codevia.tech](mailto:info@codevia.tech)  
